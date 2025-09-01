@@ -39,3 +39,11 @@ luac.out
 *.x86_64
 *.hex
 
+# IntelliJ IDEA / JetBrains IDEs
+.idea/
+*.iml
+out/
+
+# Plugin-specific
+.idea_modules/
+
